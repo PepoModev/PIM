@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 The beautiful
-=======
 Peter
->>>>>>> main
